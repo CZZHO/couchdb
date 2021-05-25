@@ -20,7 +20,9 @@ like the figure shows
 Also,we could write the python script to achieve this.
 
 >>>import couchdb
+
 >>>couch = couchdb.Server('http://admin:password@172.26.134.19:5984')
+
 >>db = couch.create("file")
 
 3.Upload the data to the exist file in couchdb
