@@ -1,11 +1,4 @@
-{\rtf1\ansi\ansicpg936\cocoartf2513
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red253\green128\blue8;}
-{\*\expandedcolortbl;;\csgray\c0;\cssrgb\c100000\c57637\c0;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww18300\viewh10920\viewkind0
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
-
-\f0\fs22 \cf2 \CocoaLigature0 \{"rows":[\
+{{"rows":[\
 \{"key":["adelaide",2014,7,28],"value":5950\},\
 \{"key":["adelaide",2014,7,29],"value":20431\},\
 \{"key":["adelaide",2014,7,30],"value":18266\},\
